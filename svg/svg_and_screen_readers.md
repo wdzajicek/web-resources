@@ -12,7 +12,7 @@ However, what if we want to use an inline SVG, where the SVG tag and code appear
 >
 >Text in a <title> element is not rendered as part of the graphic, but browsers usually display it as a tooltip. If an element can be described by visible text, it is recommended to reference that text with an aria-labelledby attribute rather than using the <title> element.
 >
-> - MDN web docs, "`<title>` — the SVG accessible name element" | <https://developer.mozilla.org/en-US/docs/Web/SVG/Element/title>
+> \- MDN web docs, "`<title>` — the SVG accessible name element" | <https://developer.mozilla.org/en-US/docs/Web/SVG/Element/title>
 
 To use a title tag you need the following:
 

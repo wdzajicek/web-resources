@@ -22,7 +22,7 @@ To use a title tag you need the following:
 4. Add an `aria-labeledby` attribute—the value should be the same as the value in the `<title>`'s _id_
 
 ```html
-<svg version="1.1" id="svgId" ...other attributes... aria-labelledby="svgTitleId">
+<svg version="1.1" id="svgId" ...OTHER ATTRIBUTES REMOVED... aria-labelledby="svgTitleId">
   <title  id="svgTitleId" lang="en">Accessible short description of the graphic</title>
   <!-- More SVG code -->
 </svg>

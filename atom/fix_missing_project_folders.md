@@ -17,4 +17,5 @@ The problem resides in a setting for the "tree-view" core-package of atom. All y
 5. Find and disable the `Filter packages by name` by clearing the checkmark
 6. Done.
 
-![Screenshot of the Hide VSC Ignored Files](./assets/img/hide-folders-settings.png){: style="height: auto; max-width: 100%;" }
+![Screenshot of the Hide VSC Ignored Files](./assets/img/hide-folders-settings.png)
+{: style="height: auto; max-width: 100%;" }
